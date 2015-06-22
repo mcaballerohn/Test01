@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Application.DTOs" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Application.DTOs" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfPlantaDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PlantaDto" nillable="true" type="tns:PlantaDto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPlantaDto" nillable="true" type="tns:ArrayOfPlantaDto" />
+  <xs:complexType name="PlantaDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombrePlanta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlantaId" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PlantaDto" nillable="true" type="tns:PlantaDto" />
+  <xs:complexType name="ArrayOfDepartamentosDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DepartamentosDto" nillable="true" type="tns:DepartamentosDto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDepartamentosDto" nillable="true" type="tns:ArrayOfDepartamentosDto" />
+  <xs:complexType name="DepartamentosDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DepartamentoId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreDepartamento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlantaId" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DepartamentosDto" nillable="true" type="tns:DepartamentosDto" />
+  <xs:complexType name="ProcesosPorDepartamentosDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DepartamentoId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlantaId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProcesoId" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProcesosPorDepartamentosDto" nillable="true" type="tns:ProcesosPorDepartamentosDto" />
+  <xs:complexType name="ArrayOfProcesosPorDepartamentosDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProcesosPorDepartamentosDto" nillable="true" type="tns:ProcesosPorDepartamentosDto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProcesosPorDepartamentosDto" nillable="true" type="tns:ArrayOfProcesosPorDepartamentosDto" />
+  <xs:complexType name="ArrayOfProcesosDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProcesosDto" nillable="true" type="tns:ProcesosDto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProcesosDto" nillable="true" type="tns:ArrayOfProcesosDto" />
+  <xs:complexType name="ProcesosDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IdProceso" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreProceso" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProcesosDto" nillable="true" type="tns:ProcesosDto" />
+</xs:schema>

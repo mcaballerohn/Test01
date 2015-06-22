@@ -1,0 +1,76 @@
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Application.dll.config
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Application.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Application.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\AutoMapper.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\AutoMapper.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\obj\Debug\Application.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\obj\Debug\Application.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Application.dll.config
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Application.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Application.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\AutoMapper.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\AutoMapper.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\obj\Debug\Application.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Application\obj\Debug\Application.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Application.dll.config
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Application.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Application.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\AutoMapper.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\EntityFramework.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\AutoMapper.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\EntityFramework.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\obj\Debug\Application.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Application\obj\Debug\Application.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Application.dll.config
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Application.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Application.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Infraestructura.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\Infraestrucura.Core.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\obj\Debug\Application.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Application\obj\Debug\Application.pdb

@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Silverlight.BoundedContext.Templates.PlantaTemplate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="100" d:DesignWidth="400">
+    
+    <Grid x:Name="LayoutRoot" Background="White">
+    	<Grid Margin="5">
+    		<Grid.ColumnDefinitions>
+    			<ColumnDefinition Width="90"/>
+    			<ColumnDefinition Width="80*"/>
+    			<ColumnDefinition Width="214*"/>
+    		</Grid.ColumnDefinitions>
+
+			<Grid>			
+				<Path Data="M52.042995,40.508999L52.042995,48.527 57.106998,48.527 57.106998,40.508999z M40.930999,40.508999L40.930999,48.527 45.994999,48.527 45.994999,40.508999z M29.818998,40.508999L29.818998,48.527 34.882999,48.527 34.882999,40.508999z M18.708,40.508999L18.708,48.527 23.771999,48.527 23.771999,40.508999z M52.042995,26.444L52.042995,34.461 57.106998,34.461 57.106998,26.444z M40.930999,26.444L40.930999,34.461 45.994999,34.461 45.994999,26.444z M29.818998,26.444L29.818998,34.461 34.882999,34.461 34.882999,26.444z M18.708,26.444L18.708,34.461 23.771999,34.461 23.771999,26.444z M7.5959998,26.444L7.5959998,34.461 12.66,34.461 12.66,26.444z M1.5480003,21.099001L63.437,21.099001 63.437,54.012999 12.66,54.012999 12.66,40.508999 7.5959998,40.508999 7.5959998,54.012999 1.5480003,54.012999z M49.793998,0L58.091999,0 58.091999,16.035 64,16.035 64,18.989 0,18.989 0,16.035 6.039426,16.035 19.271003,9.9870005 19.271003,15.837735 32.070991,9.9870005 32.070991,15.773616 44.728996,9.9870005 44.728996,16.035 49.793998,16.035z" Stretch="Uniform" Fill="#FF000000" Width="82" Height="82" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
+				  <Path.RenderTransform>
+					<TransformGroup>
+					  <TransformGroup.Children>
+						<RotateTransform Angle="0" />
+						<ScaleTransform ScaleX="1" ScaleY="1" />
+					  </TransformGroup.Children>
+					</TransformGroup>
+				  </Path.RenderTransform>
+				</Path>
+			</Grid>
+			<TextBlock x:Name="PlantaId"   Grid.Column="1" Margin="10" TextWrapping="Wrap" Text="{Binding PlantaId}"/>
+			<TextBlock x:Name="NombrePlanta"   Grid.Column="2" Margin="10" TextWrapping="Wrap" Text="{Binding NombrePlanta}"/>
+    	</Grid>
+		
+		 
+
+
+		
+
+    </Grid>
+
+
+</UserControl>

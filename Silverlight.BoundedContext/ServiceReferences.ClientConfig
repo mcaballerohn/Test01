@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IServiceN_Capas" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="../ServiceN-Capas.svc" binding="basicHttpBinding"
+                bindingConfiguration="BasicHttpBinding_IServiceN_Capas" contract="ServiceWCF.IServiceN_Capas"
+                name="BasicHttpBinding_IServiceN_Capas" />
+        </client>
+    </system.serviceModel>
+</configuration>

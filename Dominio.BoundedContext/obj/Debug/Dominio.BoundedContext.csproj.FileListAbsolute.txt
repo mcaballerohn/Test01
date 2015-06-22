@@ -1,0 +1,19 @@
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Dominio.BoundedContext\bin\Debug\Dominio.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\Dominio.BoundedContext\obj\Debug\Dominio.BoundedContext.pdb

@@ -1,0 +1,64 @@
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Application.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\AutoMapper.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Application.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\AutoMapper.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Application.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Application.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\WCF.BoundedContext\bin\AutoMapper.Net4.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Application.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Application.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\AutoMapper.Net4.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.dll.config
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\WCF.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Application.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Application.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestructura.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Dominio.BoundedContext.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\EntityFramework.xml
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\bin\Infraestrucura.Core.pdb
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.dll
+C:\Users\Daniel\Downloads\ProyectoN-Capas\WCF.BoundedContext\obj\Debug\WCF.BoundedContext.pdb

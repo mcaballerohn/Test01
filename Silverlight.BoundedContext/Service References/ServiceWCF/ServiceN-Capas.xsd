@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:50901/ServiceN-Capas.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Application.DTOs" />
+  <xs:element name="GetAllPlantas">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllPlantasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="GetAllPlantasResult" nillable="true" type="q1:ArrayOfPlantaDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertarPlantas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="plantaDto" nillable="true" type="q2:PlantaDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertarPlantasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="InsertarPlantasResult" nillable="true" type="q3:PlantaDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdatePlanta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="plantaDto" nillable="true" type="q4:PlantaDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdatePlantaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="UpdatePlantaResult" nillable="true" type="q5:PlantaDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerTodosLosDepartamentosPorPlanta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="plantaId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerTodosLosDepartamentosPorPlantaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="ObtenerTodosLosDepartamentosPorPlantaResult" nillable="true" type="q6:ArrayOfDepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertarDepartamentos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="deptoDto" nillable="true" type="q7:DepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertarDepartamentosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="InsertarDepartamentosResult" nillable="true" type="q8:DepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateDepartamentos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="deptoDto" nillable="true" type="q9:DepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateDepartamentosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="UpdateDepartamentosResult" nillable="true" type="q10:DepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OtenerTodosLosProcesosPorDepto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="procesoDeptoDto" nillable="true" type="q11:ProcesosPorDepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OtenerTodosLosProcesosPorDeptoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="OtenerTodosLosProcesosPorDeptoResult" nillable="true" type="q12:ArrayOfProcesosPorDepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertarProcesosPorDepto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="ProcesosDeptos" nillable="true" type="q13:ProcesosPorDepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertarProcesosPorDeptoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="InsertarProcesosPorDeptoResult" nillable="true" type="q14:ProcesosPorDepartamentosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerTodosLosProcesos">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerTodosLosProcesosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://schemas.datacontract.org/2004/07/Application.DTOs" minOccurs="0" name="ObtenerTodosLosProcesosResult" nillable="true" type="q15:ArrayOfProcesosDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

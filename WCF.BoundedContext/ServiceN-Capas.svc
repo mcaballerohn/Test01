@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCF.BoundedContext.ServiceN_Capas" CodeBehind="ServiceN-Capas.svc.cs" %>

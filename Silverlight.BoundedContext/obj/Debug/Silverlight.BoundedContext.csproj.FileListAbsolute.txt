@@ -1,0 +1,74 @@
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\App.g.cs
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\MainPage.g.cs
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.g.resources
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\AppManifest.xaml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.xap
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContextTestPage.html
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.dll
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.pdb
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\XapCacheFile.xml
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Views\View.g.cs
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Templates\PlantaTemplate.g.cs
+C:\Users\rcastellanos\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Templates\DepartamentoTemplate.g.cs
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\AppManifest.xaml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.xap
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContextTestPage.html
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.csprojResolveAssemblyReference.cache
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\App.g.cs
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\MainPage.g.cs
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Templates\DepartamentoTemplate.g.cs
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Templates\PlantaTemplate.g.cs
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Views\View.g.cs
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.g.resources
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.dll
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.pdb
+C:\Users\jzelaya\Documents\Visual Studio 2012\Projects\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\XapCacheFile.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\AppManifest.xaml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContext.xap
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Silverlight.BoundedContextTestPage.html
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\App.g.cs
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\MainPage.g.cs
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Templates\DepartamentoTemplate.g.cs
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Templates\PlantaTemplate.g.cs
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Views\View.g.cs
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.g.resources
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.dll
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\Silverlight.BoundedContext.pdb
+C:\Users\ecastellanos\Documents\Sistemas\Vinix Academy\Entrenamiento\Proyecto N-Capas Jorge and Alex\ProyectoN-Capas\Silverlight.BoundedContext\obj\Debug\XapCacheFile.xml
